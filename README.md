@@ -3,6 +3,8 @@
 
 Allow the user to play a series of hands
 
+    * Save 'word.txt' in the same folder as the py file
+    
     * Asks the user to input a total number of hands
 
     * Accumulates the score for each hand into a total score for the 
