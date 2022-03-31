@@ -32,7 +32,7 @@ Allow the user to play a series of hands
       
     * Returns the total score for the series of hands
 
-    * The score for a word is the **product** of two components:
+    * The score for a word is the product of two components:
         - First component: the sum of the points for lettters in the word.
         - Second component: either [7 * ​word_length - 3 * (​n-​word_length)] or 1,
           whichever value is greater, where:
