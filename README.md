@@ -49,3 +49,10 @@ Allow the user to play a series of hands
         'p': 3, 'q': 10, 'r': 1, 's': 1, 
         't': 1, 'u': 1, 'v': 4, 'w': 4, 
         'x': 8, 'y': 4, 'z': 10
+
+
+To run this python game, please save the 'words.txt' in the same folder as the .py file.
+
+This game is created as the assignment for problem set 3 of MIT's 6.0001 course "Introduction to Computer Science and Programming in Python" for Fall 2016 term.
+
+The open course can be found here: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm
