@@ -55,4 +55,5 @@ To run this python game, please save the 'words.txt' in the same folder as the .
 
 This game is created as the assignment for problem set 3 of MIT's 6.0001 course "Introduction to Computer Science and Programming in Python" for Fall 2016 term.
 
-The open course can be found here: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+The open course can be found here: 
+https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
