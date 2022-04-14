@@ -1,5 +1,5 @@
 # Python-Word-Game
- Python Word Game
+ Python Word Game - ps3 - MIT 60001
 
 Allow the user to play a series of hands
 
