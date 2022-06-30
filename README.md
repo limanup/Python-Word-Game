@@ -1,5 +1,5 @@
 # Python-Word-Game
- Python Word Game - ps3 - MIT 60001
+ Python Word Game to Achieve Highest Score!
 
 Allow the user to play a series of hands
 
